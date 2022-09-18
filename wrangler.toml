@@ -7,9 +7,9 @@ workers_dev = true
 compatibility_date = "2022-03-26"
 
 [vars]
-GITHUB_ACCOUNT = 'killeencode'
-GITHUB_REPO = 'brancato'
-GITHUB_TOKEN = '' # Optional - used with private repos
+GITHUB_ACCOUNT = 'NateTheDev1'
+GITHUB_REPO = 'pluto'
+GITHUB_TOKEN = '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' # Optional - used with private repos
 
 [build]
 command = "npm install && npm run build"
